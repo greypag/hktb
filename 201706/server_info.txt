@@ -1,0 +1,5 @@
+54.251.52.133
+username: bitnami
+/opt/bitnami/apache2/htdocs/img
+
+please go here create a new folder for the 201707 images
